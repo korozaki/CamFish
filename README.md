@@ -32,5 +32,5 @@ apt-get -y install php openssh git wget
 ```
 git clone https://github.com/korozaki/CamFish
 cd CamFish
-bash camphish.sh
+bash camfish.sh
 ```
